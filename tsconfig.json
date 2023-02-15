@@ -11,6 +11,7 @@
     "experimentalDecorators": true,
     "forceConsistentCasingInFileNames": true,
     "esModuleInterop": true,
+    "importsNotUsedAsValues": "error",
     "emitDecoratorMetadata": true,
     "strictPropertyInitialization": false,
     "skipLibCheck": true,
